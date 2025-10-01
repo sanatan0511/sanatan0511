@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m sanatan Singh<br>- 👀 I’m interested in Coding tough task,intrested in ai and using all these to building Cool things <br>- 🌱 I’m currently learning C,C++,JAVA,AI &ML ,KOTLIN etc<br>- 💞️ I’m looking to collaborate on projects specially cool ideas ,ai projects etc<br>- 📫  reach me  via email or linkdin<br>- 😄 Pronouns: THEY/THEM<br>- ⚡ Fun fact : Being a curious guy passionate everything :)
+- 👋 Hi, I’m sanatan Singh<br>- 👀 I’m interested in Coding tough task,intrested in ai and using all these to building Cool things <br>- 🌱 I’m currently learning C,C++,JAVA,AI &ML ,Pytorch ,tensorflow,system design<br>- 💞️ I’m looking to collaborate on projects specially cool ideas ,ai projects etc<br>- 📫  reach me  via email or linkdin<br>- 😄 Pronouns: THEY/THEM<br>- ⚡ Fun fact : Being a curious guy passionate everything :)
 
 
 ## 🌐 Socials:
