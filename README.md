@@ -70,13 +70,31 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanatan0511&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanatan0511&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanatan0511&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanatan0511&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanatan0511&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+</div>  
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanatan0511&theme=react-dark&hide_border=true&cache_seconds=86400" width="100%"/>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/sanatan0511/sanatan0511/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
 ---
 
