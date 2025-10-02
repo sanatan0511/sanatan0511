@@ -89,12 +89,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanatan0511&theme=react-dark&hide_border=true&cache_seconds=86400" width="100%"/>
 
----
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/sanatan0511/sanatan0511/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
 
 ---
 
