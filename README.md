@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="22"> About Me
 - 🎯 Passionate about **AI/ML, Competitive Programming, and System Design**  
 - 💡 Skilled in **Python, C++, PyTorch, TensorFlow, FastAPI, and Docker**  
 - ☁️ Exploring **Cloud & ML Deployment (AWS | GCP | Kubernetes)**  
@@ -30,22 +30,58 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Competitive Programming
+## 🚀 Competitive Programming & LLM (Animated Highlights)
+
 <div align="center">
-  <a href="https://www.codechef.com/users/your_id">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/your_id">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/your_id">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
+  <!-- Competitive Programming animated GIF -->
+  <div style="display:flex;flex-direction:row;align-items:center;justify-content:center;gap:30px;flex-wrap:wrap">
+    <div style="max-width:360px;text-align:left">
+      <h3>🏆 Competitive Programming</h3>
+      <p>
+        - Solving algorithmic problems daily — <strong>DSA, graphs, DP, greedy</strong>.<br/>
+        - Regular contestant on <strong>Codeforces, CodeChef, LeetCode</strong>.<br/>
+        - Focused on writing optimal, readable solutions under contest constraints.
+      </p>
+      <p>
+        <a href="https://leetcode.com/your_id"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+        <a href="https://codeforces.com/profile/your_id"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
+        <a href="https://www.codechef.com/users/your_id"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
+      </p>
+    </div>
+
+    <div style="max-width:320px;text-align:center">
+      <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="260" alt="Competitive Programming GIF" />
+      <p style="font-size:12px;color:#6b7280;margin-top:8px">Practice • Contests • Optimization</p>
+    </div>
+  </div>
+</div>
+
+<hr/>
+
+<div align="center">
+  <!-- LLM Animated Highlight -->
+  <div style="display:flex;flex-direction:row;align-items:center;justify-content:center;gap:30px;flex-wrap:wrap">
+    <div style="max-width:320px;text-align:center">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="260" alt="LLM / AI GIF" />
+      <p style="font-size:12px;color:#6b7280;margin-top:8px">Experimenting with LLMs, fine-tuning, RAG and efficient deployment</p>
+    </div>
+
+    <div style="max-width:360px;text-align:left">
+      <h3>🤖 LLMs & AI Engineering</h3>
+      <p>
+        - Built & fine-tuned transformer-based models using <strong>PyTorch & Hugging Face</strong>.<br/>
+        - Implemented <strong>RAG + vector stores</strong> for knowledge-grounded responses.<br/>
+        - Focused on model optimization: quantization, pruning & efficient inference for deployment.<br/>
+        - Experience packaging models behind <strong>FastAPI</strong> / containerizing with <strong>Docker</strong>.
+      </p>
+      <p style="font-size:13px;color:#374151">Projects: custom LLMs, RAG search, ML deployment pipelines, domain-specific finetuning.</p>
+    </div>
+  </div>
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"> Tech Stack  
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -91,10 +127,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Showcase (Pinned Projects)
 <div align="center">
-  <img src="https://github.com/sanatan0511/sanatan0511/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <a href="https://github.com/sanatan0511/your-llm-repo"><img src="https://img.shields.io/badge/🔬-LLM-FineTune-blue?style=for-the-badge" alt="LLM project" /></a>
+  <a href="https://github.com/sanatan0511/your-ml-deploy"><img src="https://img.shields.io/badge/🚀-ML-Deployment-purple?style=for-the-badge" alt="ML deployment" /></a>
+  <a href="https://github.com/sanatan0511/your-cp-solutions"><img src="https://img.shields.io/badge/⚡-CP-Solutions-orange?style=for-the-badge" alt="CP solutions" /></a>
 </div>
+
+*(Replace repo links / names above with your actual repos — these badges are clickable and look professional.)*
 
 ---
 
